@@ -1,4 +1,4 @@
-````markdown
+
 # Decorator Design Pattern (Java)
 
 ## Overview
@@ -328,4 +328,4 @@ Use the Decorator Pattern when:
 - Decorators can be stacked to combine multiple behaviors.
 - Behavior is added at runtime without changing existing code.
 - This pattern is widely used in the Java Standard Library, especially in the `java.io` package.
-````
+
