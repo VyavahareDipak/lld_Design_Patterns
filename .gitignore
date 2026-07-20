@@ -1,1 +1,10 @@
 *.class
+.gitignore
+
+
+# IntelliJ
+.idea/
+*.iml
+
+# Maven
+target/
